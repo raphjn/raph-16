@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raph-16
-- 👀 I'm interested in algorithm and data science
+- 👀 I'm interested in algorithm
 - 🌱 I’m currently learning PHP and I know JavaScript and Python
 
 <!---
